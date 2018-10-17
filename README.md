@@ -19,7 +19,9 @@
 # Demo of BAMAZON App!
 ## Customer Portal
 
-![](assets/customer.gif)
+![](assets/customerMultiBuy.gif)
+
+![](assets/customerValidation.gif)
 
 ## Manager Portal 
 
