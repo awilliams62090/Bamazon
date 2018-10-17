@@ -25,4 +25,6 @@
 
 ## Manager Portal 
 
-![](assets/spotifyThisSong.gif)
+![](assets/manager.1.gif)
+
+![](assets/manager.2.gif)
