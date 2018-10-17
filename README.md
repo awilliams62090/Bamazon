@@ -10,10 +10,10 @@
 - [Console.table npm](https://www.npmjs.com/package/console.table)
 
 # Overview of Code
-##Customer Portal 
+## Customer Portal 
 ![](assets/customerCodeOV.gif)
 
-##Manager Portal
+## Manager Portal
 ![](assets/managerOV.gif)
 
 # Demo of BAMAZON App!
